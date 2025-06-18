@@ -2,37 +2,37 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The fundamental grouping of particles in a crystal is called",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Space lattice",
+        "b": "Lattice point",
+        "c": "Bravais lattice",
+        "d": "Unit cell"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "A space lattice is an array of points showing how particles are arranged.",
+        "b": "Lattice point is a single point in the space lattice.",
+        "c": "Bravais lattice is a classification of lattices, not the basic grouping.",
+        "d": "Unit cell is the smallest repeating unit, but not the grouping itself."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The Unit cell that contains only one lattice point at the corner is known as",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Space groups",
+        "b": "Miller indices",
+        "c": "Lattice point",
+        "d": "Primitive cells"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Space groups describe symmetry, not cell type.",
+        "b": "Miller indices describe crystal planes.",
+        "c": "Lattice point is a location, not a cell.",
+        "d": "Primitive cells contain only one lattice point, formed from corner atoms."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
