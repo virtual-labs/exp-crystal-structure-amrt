@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "The fundamental grouping of particles in a crystal is called",
+      "question": "The smallest repeating unit that defines the entire lattice structure is called",
       "answers": {
         "a": "Space lattice",
         "b": "Lattice point",
@@ -12,10 +12,10 @@
       "explanations": {
         "a": "A space lattice is an array of points showing how particles are arranged.",
         "b": "Lattice point is a single point in the space lattice.",
-        "c": "Bravais lattice is a classification of lattices, not the basic grouping.",
-        "d": "Unit cell is the smallest repeating unit, but not the grouping itself."
+        "c": "Bravais lattice is a classification of lattices.",
+        "d": "Unit cell is the smallest repeating unit."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
