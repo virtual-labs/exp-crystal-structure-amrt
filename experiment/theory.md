@@ -184,7 +184,7 @@ $$\text{APF}=\frac{\text{Volume of atoms in unit cell}}{\text{Volume of unit cel
 1.    Simple Cubic
 
 
-<div style="float: right; margin-left: 20px;"> <img src="./images/figure5.jpg" alt="Figure 5" style="max-width: 100px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;"></p> </div>
+<div style="float: right; margin-left: 20px;"> <img src="./images/figure5.jpg" alt="Figure 5" style="max-width: 250px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;"></p> </div>
 
 
 Consider a cube of side 'a' .Atoms of radius 'r' is placed at the corner. So that length of cube a=2r.
@@ -199,7 +199,7 @@ $$\text{APF}=\frac{\frac{4}{3}\pi r^3}{8r^3}=\frac{\pi}{6}=52\%$$
 
 2. Body-Centered Cube
 
-<div style="float: right; margin-left: 20px;"> <img src="./images/figure6.jpg" alt="Figure 6" style="max-width: 100px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;"></p> </div>
+<div style="float: right; margin-left: 20px;"> <img src="./images/figure6.jpg" alt="Figure 6" style="max-width: 250px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;"></p> </div>
 
 Consider a cube of side $a$, and atoms of radius $r$ placed at the corners and at the body center. The length of the body diagonal is given by:
 
@@ -216,7 +216,7 @@ $$APF = \frac{\frac{8\pi r^3}{3}}{\frac{64r^3}{3\sqrt{3}}} = \frac{\sqrt{3}\pi}{
 
 
 3. Face-Centered Cube
-<div style="float: right; margin-left: 20px;"> <img src="./images/figure7.jpg" alt="Figure 7" style="max-width: 100px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;"></p> </div>
+<div style="float: right; margin-left: 20px;"> <img src="./images/figure7.jpg" alt="Figure 7" style="max-width: 250px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;"></p> </div>
 
 Consider a cube of length $a$, and atoms of radius $r$ placed at the corners as well as at the face centers.
 
