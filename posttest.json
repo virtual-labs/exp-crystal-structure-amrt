@@ -1,0 +1,56 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The number of equidistant nearest neighbors that an atom in the given structure has is called",
+      "answers": {
+        "a": "Coordination number (N)",
+        "b": "Lattice constant",
+        "c": "Atomic packing factor",
+        "d": "Nearest Neighbor distance"
+      },
+      "explanations": {
+        "a": "Correct: Coordination number defines the number of nearest neighbors.",
+        "b": "Lattice constant is the physical dimension of the unit cell.",
+        "c": "Atomic packing factor is a measure of atom density.",
+        "d": "Nearest neighbor distance is a length, not a count."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The number of lattices in the orthorhombic system is",
+      "answers": {
+        "a": "4",
+        "b": "2",
+        "c": "1",
+        "d": "3"
+      },
+      "explanations": {
+        "a": "Correct: Orthorhombic system has 4 Bravais lattices.",
+        "b": "Incorrect: Fewer than actual.",
+        "c": "Incorrect: Only primitive cell.",
+        "d": "Incorrect: One less than actual."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is not an example for hexagonal system?",
+      "answers": {
+        "a": "Silicon dioxide",
+        "b": "Magnesium",
+        "c": "Gold",
+        "d": "Zinc"
+      },
+      "explanations": {
+        "a": "SiO₂ can have hexagonal symmetry.",
+        "b": "Mg has a hexagonal close-packed structure.",
+        "c": "Correct: Gold crystallizes in a cubic system.",
+        "d": "Zinc has a hexagonal structure."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
